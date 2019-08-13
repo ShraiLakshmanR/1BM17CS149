@@ -1,9 +1,9 @@
 list1=[]
 list2=[]
 num=int(input("Enter number of items\n"))
-n=int(input("Enter number\n"))
+
 for i in range(num):
-    
+n=int(input("Enter number\n"))    
     if(n!=-1):
         list1.append(n)
     else:
