@@ -1,7 +1,4 @@
-str1=input("Enter a word\n")
-  
-# using naive method to get count  
-# of each element in string  
+str1=input("Enter a word\n")  
 all_freq = {} 
   
 for i in str1: 
