@@ -25,4 +25,4 @@ def check(s):
     else:
         return False
 a=input("enter string Parenthesis")
-print("validity: "+str(check(a)))
+print("validity:"+str(check(a)))
